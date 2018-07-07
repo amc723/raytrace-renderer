@@ -1,0 +1,3 @@
+800x800 512 samples
+  analytic:   142.16 seconds
+  rejection:  160.726 seconds
